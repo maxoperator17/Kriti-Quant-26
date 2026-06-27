@@ -10,10 +10,10 @@ The repository is organized with the following key files:
 
 | File Name | Description |
 | :--- | :--- |
-| **`2651_AMLR_strategy_final_QuantFi...`** | The core python/notebook implementation containing the primary quantitative strategy. |
-| **`2651_2020_2025_testing_QuantFiC...`** | Out-of-sample forward testing and validation script using asset data from 2020 to 2025. |
-| **`2651_DocmenReport_QuantFinChal...`** | Detailed methodology documentation explaining the logic, indicators, and mathematical formulation behind the strategy. |
-| **`2651_PerformanceReport_QuantFin...`** | Extensive performance breakdown including risk-adjusted metrics (Sharpe, Sortino, Drawdown, etc.). |
+| **`2651_AMLR_strategy_final_QuantFinChallenge`** | The core python/notebook implementation containing the primary quantitative strategy. |
+| **`2651_2020_2025_testing_QuantFiChallenge`** | Out-of-sample forward testing and validation script using asset data from 2020 to 2025. |
+| **`2651_DocmenReport_QuantFinChallenge`** | Detailed methodology documentation explaining the logic, indicators, and mathematical formulation behind the strategy. |
+| **`2651_PerformanceReport_QuantFinChallenge`** | Extensive performance breakdown including risk-adjusted metrics (Sharpe, Sortino, Drawdown, etc.). |
 | **`Market data.txt`** | The underlying data dictionary or raw data source information utilized for calculations. |
 
 ---
